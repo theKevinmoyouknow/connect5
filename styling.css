@@ -1,0 +1,29 @@
+#title {
+  font-size:100px;
+  font-family: 'Libre Baskerville', sans-serif;
+  color: #83AAE6;
+}
+
+#subtext {
+    
+    font-family: 'Libre Baskerville', sans-serif;
+    color:#000;
+    display:block;
+}
+
+table {
+    width:90%;
+    height:90%;
+    background-color:#E6BF83;
+    border-spacing:0;
+    table-layout:fixed;
+}
+
+td{
+
+    font-family: sans-serif;
+
+    font-size:30px;
+
+    color: #000;
+}
